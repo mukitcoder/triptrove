@@ -1,0 +1,116 @@
+
+/* Color */
+
+
+.header-top ul.info-list i,
+.hero-content .text-2,
+.search-tour-slide .icon-box:hover h4,
+.search-tour-slide .icon-box h5,
+.destination-section .text-box a:hover,
+.testimonial-section-two ul.ratings li,
+.team-section .team-box:hover ul.socials-info li:hover a,
+.accordion .acc-btn.active h4,
+.stay-in-touch .contact-list li i,
+.stay-in-touch .contact-list li:hover a,
+.filters.tours-one .left-box li.active,
+.tour-type ul.ratings-list li,
+.contact-info-section .contact-list li i,
+.tour-details-top .left-box .ratings,
+.location-filter-card form .single-item label:after,
+.location-filter-card form .single-item .priceLabel:after,
+.ui-datepicker .ui-datepicker-header .ui-datepicker-prev:before,
+.ui-datepicker .ui-datepicker-header .ui-datepicker-next:before,
+.destination-2-container:hover .caption h4,
+.page-title-box .breadcrumb li:hover a,
+.blog-section .blog-style-1.two .fig-content-area .blog-btn:hover,
+.blog-section .blog-style-1 .fig-content-area h4:hover a,
+.blog-section .blog-style-1 ul.blog-info li:hover a,
+.testimonials ul.rating,
+.amazing-deals ul.rating,
+.about-section .right-content ul li.tab-btn.active-btn,
+.title-box span,
+.footer-bottom a:hover,
+.footer-blog.widget-content h5:hover a,
+ul.footer-contact-widget-2 li:hover,
+.feature-box h5,
+.feature-box:hover h4, 
+.main-footer .social-links li a,
+.valorwide_main-header .menu-right-content li.search-box-outer.search-toggler:hover,
+.valorwide_main-header .menu-right-content li.user-box:hover,
+.valorwide_main-header .menu-right-content li.offcanvas-box:hover,
+.valorwide_main-header.two .menu-right-content li.search-box-outer.search-toggler:hover,
+.valorwide_main-header.two .menu-right-content li.user-box:hover,
+.valorwide_main-header.two .menu-right-content li.offcanvas-box:hover,
+.search-popup .close-search:hover,
+.sec-sub-title,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li > ul > li > a:hover,
+.main-menu .navigation > li > .megamenu li > a:hover,
+.main-menu .navigation > li > ul > li > ul > li > a:hover
+{
+  color: var(--theme-color);
+}
+
+
+
+/* Background Color */
+
+.go-top,
+.valorwide_main-header.three ul.menu-left-content li:hover a,
+.valorwide_main-header.three .menu-right-content li.user-box:hover,
+.btn-style-two:hover,
+.choose-section .choose-box:before,
+.range-slider .ui-slider .ui-slider-range,
+.cart-button::before,
+.location-filter-card form button,
+th,
+.ui-datepicker .ui-datepicker-calendar td:hover,
+.banner-section.two .banner-btn-box,
+.destination-section li.active.filter,
+.btn-style-one,
+.search-popup .search-form fieldset input[type="search"] {
+  background-color: var(--theme-color);
+}
+
+
+
+/* specials */
+.amazing-deals button.owl-dot.active,
+.search-tour-slide button.owl-dot.active,
+.search-tour-slide.two button.owl-dot.active,
+.feature-section button.owl-dot.active {
+    background: var(--theme-color) !important;
+}
+
+
+/* border */
+
+.search-popup .search-form fieldset input[type="search"]:focus{
+  border-color: var(--theme-color);
+  }
+.valorwide_preloader_in:after {
+  border-top-color: var(--theme-color);
+  }
+
+  .destination-section .content-box,
+  .valorwide-header-sidebar.offcanvas {
+    border-left: 5px solid var(--theme-color);
+  }
+
+
+  .search-tour-slide .icon-box:hover,
+  .feature-box:hover,
+  .testimonials .reviewer-img:before,
+  .testimonial-section-two .gallery-thumbs .swiper-slide-thumb-active .author-image{
+    border: 1px dashed var(--theme-color);
+  }
+  .destination-section li.filter {
+    border: 1px solid var(--theme-color);
+  }
+
+  .range-slider .ui-state-default,
+  .range-slider .ui-widget-content .ui-state-default{
+    border: 2px solid var(--theme-color);
+  }
+ 
